@@ -1,0 +1,587 @@
+
+**** Log file opened at 2025-10-21 14:20:07.712869 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 36892
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : fe80::762b:e77c:805f:b675
+Global trace level        : 0
+
+2025-10-21 14:20:07.693087 [07380] >> Info entry
+	Did not find config file C:\Websocket_RFC\sapnwrfc.ini.
+
+**** Log file opened at 2025-10-21 15:03:34.494750 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 10616
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : fe80::762b:e77c:805f:b675
+Global trace level        : 0
+
+2025-10-21 15:03:34.494214 [41904] >> Error entry
+	RfcCommunicationException: Return Value: -1, Code: RFC_COMMUNICATION_FAILURE, Message: Could not initialize TLS library with path "C:\\sap\\cryptolib\\sapcrypto.dll". See socket trace for more details.
+
+**** Log file opened at 2025-10-21 15:05:55.806349 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 40968
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : fe80::762b:e77c:805f:b675
+Global trace level        : 0
+
+2025-10-21 15:05:55.805859 [41600] >> Error entry
+	RfcCommunicationException: Return Value: -1, Code: RFC_COMMUNICATION_FAILURE, Message: Could not initialize TLS library with path "C:\\sap\\cryptolib\\sapcrypto.dll". See socket trace for more details.
+
+**** Log file opened at 2025-10-21 15:09:25.416942 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 41040
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : fe80::762b:e77c:805f:b675
+Global trace level        : 0
+
+2025-10-21 15:09:25.416515 [39280] >> Error entry
+	RfcCommunicationException: Return Value: -1, Code: RFC_COMMUNICATION_FAILURE, Message: Could not initialize TLS library with path "C:\\sap\\cryptolib\\sapcrypto.dll". See socket trace for more details.
+
+**** Log file opened at 2025-10-21 15:25:00.058410 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 40900
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : fe80::762b:e77c:805f:b675
+Global trace level        : 0
+
+2025-10-21 15:25:00.057271 [36152] >> Error entry
+	[Handle: 2709509320976	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 8000	Websocket Host: 172.17.19.18	Websocket Port: 8000	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:8000
+
+**** Log file opened at 2025-10-21 15:27:00.640891 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 39552
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:27:00.639103 [00008] >> Error entry
+	[Handle: 2947625968336	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'undefined' unknown
+TIME        Tue Oct 21 15:27:00 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2025-10-21 15:28:46.074261 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 17876
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:28:46.073840 [40900] >> Error entry
+	[Handle: 2359556143360	ConvID: 00000001	Socket: 1	Handle: 2359522954320	Host: 172.17.19.18	Port: 8000	Websocket Host: 172.17.19.18	Websocket Port: 8000	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\sap\cryptolib\sec\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 15:47:59.659922 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 11384
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:47:59.659083 [17864] >> Error entry
+	[Handle: 2045826245536	ConvID: 00000001	Socket: 1	Handle: 2045826197152	Host: 172.17.19.18	Port: 8000	Websocket Host: 172.17.19.18	Websocket Port: 8000	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\sap\cryptolib\sec\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 15:48:25.571486 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 14052
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:48:25.570266 [41164] >> Error entry
+	[Handle: 1904296618592	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'undefined' unknown
+TIME        Tue Oct 21 15:48:25 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+
+**** Log file opened at 2025-10-21 15:48:49.371981 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 27200
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:48:49.370661 [03312] >> Error entry
+	[Handle: 2483692082000	ConvID: 00000004	Socket: 4	Handle: 2483693166304	Host: 172.17.19.18	Port: 8000	Websocket Host: 172.17.19.18	Websocket Port: 8000	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\sap\cryptolib\sec\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 15:50:09.402420 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 40392
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:50:09.401831 [09928] >> Error entry
+	[Handle: 1549330060560	ConvID: 00000001	Socket: 1	Handle: 1549329180864	Host: 172.17.19.18	Port: 8000	Websocket Host: 172.17.19.18	Websocket Port: 8000	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\sap\cryptolib\sec\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 15:51:06.147120 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 35328
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:51:06.145709 [33864] >> Error entry
+	[Handle: 2646771416624	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 8001	Websocket Host: 172.17.19.18	Websocket Port: 8001	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:8001
+
+**** Log file opened at 2025-10-21 15:51:33.611266 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 27764
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:51:33.609628 [19520] >> Error entry
+	[Handle: 2172007886544	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 44300	Websocket Host: 172.17.19.18	Websocket Port: 44300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:44300
+
+**** Log file opened at 2025-10-21 15:54:58.711759 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 38216
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 15:54:58.711013 [06068] >> Error entry
+	[Handle: 2148053066976	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 443	Websocket Host: 172.17.19.18	Websocket Port: 443	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:443
+
+**** Log file opened at 2025-10-21 16:07:23.888931 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 40312
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:07:23.888379 [11928] >> Error entry
+	[Handle: 2652506010352	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 443	Websocket Host: 172.17.19.18	Websocket Port: 443	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:443
+
+**** Log file opened at 2025-10-21 16:08:15.478195 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 36652
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:08:15.477684 [30816] >> Error entry
+	[Handle: 2169268059760	ConvID: 00000004	Socket: 4	Handle: 2169235578496	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -83, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_NOT_EXISTING: Could not create credential from undefined for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:10:13.708407 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 41236
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:10:13.707620 [08304] >> Error entry
+	[Handle: 2044514695056	ConvID: 00000004	Socket: 4	Handle: 2044482232816	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:11:10.055750 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 36256
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:11:10.055209 [36940] >> Error entry
+	[Handle: 1758408227136	ConvID: 00000004	Socket: 4	Handle: 1758408220032	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:13:22.638653 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 03328
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:13:22.637572 [16836] >> Error entry
+	[Handle: 1826854322688	ConvID: 00000001	Socket: 1	Handle: 1826852354912	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:13:44.992515 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 32452
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:13:44.991248 [34996] >> Error entry
+	[Handle: 2258734290624	ConvID: 00000001	Socket: 1	Handle: 2258734122672	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:20:15.281723 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 10620
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:20:15.281052 [36212] >> Error entry
+	[Handle: 2113398762992	ConvID: 00000004	Socket: 4	Handle: 2113398758448	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -83, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_NOT_EXISTING: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:20:57.425189 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 40156
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:20:57.424007 [00852] >> Error entry
+	[Handle: 2778782747792	ConvID: 00000001	Socket: 1	Handle: 2778781583696	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -83, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_NOT_EXISTING: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:22:04.191469 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 22612
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:22:04.190623 [19232] >> Error entry
+	[Handle: 1516212730624	ConvID: 00000001	Socket: 1	Handle: 1516179762240	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -83, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_NOT_EXISTING: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:41:50.474134 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 12020
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:41:50.473237 [28148] >> Error entry
+	[Handle: 2479620775744	ConvID: 00000001	Socket: 1	Handle: 2479589181264	Host: 172.17.19.18	Port: 8000	Websocket Host: 172.17.19.18	Websocket Port: 8000	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
+
+**** Log file opened at 2025-10-21 16:47:59.981381 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 36588
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:47:59.979696 [37852] >> Error entry
+	[Handle: 2238321600368	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 44300	Websocket Host: 172.17.19.18	Websocket Port: 44300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:44300
+
+**** Log file opened at 2025-10-21 16:48:23.846381 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 33272
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:48:23.845727 [39784] >> Error entry
+	[Handle: 2545310798064	ConvID: 	Socket: 18446744073709551615	Host: 172.17.19.18	Port: 44300	Websocket Host: 172.17.19.18	Websocket Port: 44300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -10, Code: RFC_COMMUNICATION_FAILURE, Message: Unable to connect to 172.17.19.18:44300
+
+**** Log file opened at 2025-10-21 16:50:49.406387 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 11
+Compilation date          : Jan 25 2023 01:21:13
+CPIC library              : 753.2022.12.23 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1116
+Current working directory : C:\Websocket_RFC
+Program                   : node
+Process ID                : 40900
+User                      : rhrithik
+Hardware                  : PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : KAARLP-2540
+IP address                : 192.168.18.76
+IPv6 address              : 
+Global trace level        : 0
+
+2025-10-21 16:50:49.405933 [36524] >> Error entry
+	[Handle: 1675556788320	ConvID: 00000000	Socket: 0	Handle: 1675556089488	Host: 172.17.19.18	Port: 4300	Websocket Host: 172.17.19.18	Websocket Port: 4300	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: -82, Code: RFC_COMMUNICATION_FAILURE, Message: SSSLERR_PSE_MISSING_PIN: Could not create credential from C:\\sap\\cryptolib\\sec\\SAPSSLS.pse for client role. Please consult traces.
